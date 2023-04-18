@@ -1,5 +1,7 @@
 # 4th Capo
 
+# Mar 22
+
 # Guitar:
 Follow typical christian/gospel chord structure in verse
 adjust to more metal structure through bridge/chorus
@@ -62,3 +64,25 @@ For bridge maybe move into a 5-3-1 pattern (Keep from a good proper resolve) int
 | C        | E        |
 | Db       | F        |
 | Eb       | G        |
+
+# April 17th
+
+Decided I want the guitar in DAEAC#e
+
+With this I'm also going to be looking for naturally more math rocky chords, I have some resources from 'Lets talk about math rock' to help (behind paywall so not uploading to github)
+
+Gonna try to work around F major looking at the last notes selected chord progression
+
+Dm   B     C    Gm
+Bm7 Gmaj9 Amaj Em11 
+
+So I didn't exactly stick to F major, but I think it sounds pretty good
+
+Trying to find a fingerpicking pattern following these chord shapes for an intro, but as a chord progression its good
+
+Playing around with some stuff, but I think I just need to setup a zoom call to work on it with Mason, which is exciting that its at this point at least!
+
+# April 18th
+
+Added 4thCapo.tg with an idea for the song! Will need more work but it's a start!
+
