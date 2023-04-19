@@ -84,5 +84,5 @@ Playing around with some stuff, but I think I just need to setup a zoom call to 
 
 # April 18th
 
-Added 4thCapo.tg with an idea for the song! Will need more work but it's a start!
+Added some ideas, I like idea.tg more, I think I want to change the rhythm for the bridge though
 
